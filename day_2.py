@@ -45,3 +45,19 @@
 # print(70+float(100.5))
 
 # print(str(45)+str(84))
+'''mathematical operator'''
+
+# print(type(3/2))
+# print(2**5)# two * staric use for power
+
+'''priority of mathematical operation'''
+'''# PEMDASLSR
+# PERASENTHESIS()
+# EXPONENTS **
+# MULTIPLICATION *
+# Division /
+# Addition +
+# Subtractioin -'''
+
+# print(8/3)
+# print(8//3)# it ccunsider integer
