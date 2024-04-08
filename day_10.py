@@ -1,4 +1,6 @@
 # from replit import clear
+import os
+clear = lambda: os.system('cls')
 
 from day_10_art import logo
 
