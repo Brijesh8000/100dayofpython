@@ -1,4 +1,4 @@
-############DEBUGGING#####################
+'''DEBUGGING'''
 
 # # Describe Problem
 # def my_function():
@@ -6,19 +6,21 @@
 #     if i == 20:
 #       print("You got it")
 # my_function()
-
-# # Reproduce the Bug
-# from random import randint
-# dice_imgs = ["❶", "❷", "❸", "❹", "❺", "❻"]
-# dice_num = randint(1, 6)
-# print(dice_imgs[dice_num])
-
+''' Debuging Complited '''
+# Reproduce the Bug
+# while True:
+#     from random import randint
+#     dice_imgs = ["❶", "❷", "❸", "❹", "❺", "❻"]
+#     dice_num = randint(0, 5)
+#     print(dice_imgs[dice_num])
+''' Debuging Complited '''
 # # Play Computer
 # year = int(input("What's your year of birth?"))
 # if year > 1980 and year < 1994:
 #   print("You are a millenial.")
-# elif year > 1994:
+# elif year >= 1994:
 #   print("You are a Gen Z.")
+''' Debuging Complited '''
 
 # # Fix the Errors
 # age = input("How old are you?")
