@@ -1,7 +1,7 @@
 # from replit import clear
 
 import os
-clear = lambda: os.system('cls')
+clear= lambda: os.system('cls')
 
 from day_9_art import logo
 
