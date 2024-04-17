@@ -7,6 +7,6 @@ print("waiting for connection ")
 while True:
     c, addr = s.accept()
     print("connected with : ", addr)
-    c.sent("you are connected ")
+    c.send("you are connected ")
     c.close()
 
